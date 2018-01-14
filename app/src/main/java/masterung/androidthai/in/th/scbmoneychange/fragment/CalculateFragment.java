@@ -83,6 +83,7 @@ public class CalculateFragment extends Fragment{
         });
 
 
+
     }
 
     private void myAlert(String titleString, String messageString) {
